@@ -1,2 +1,2 @@
 # EDL_url
-LUMU
+www.mp.gob.gt
